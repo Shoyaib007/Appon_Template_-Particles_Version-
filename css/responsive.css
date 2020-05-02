@@ -1,0 +1,392 @@
+@media(max-width:575px) {
+
+
+    .navbar-brand {
+        width: 50%;
+    }
+
+    .navbar-brand img {
+        width: 50%;
+    }
+
+    .navbar-toggler-icon {
+        background-color: #744FA0;
+        border-radius: 5px
+    }
+
+
+
+    .banner-art h1 {
+        font-size: 19px;
+    }
+
+    .banner-art h2 {
+        font-size: 15px
+    }
+
+    .banner-art h2::before {
+        display: none;
+    }
+
+    .banner-art > p {
+        font-size: 11px;
+        line-height: 18px
+    }
+
+    .home {
+        display: none;
+    }
+
+    #banner .slick-dots {
+        display: none !important;
+    }
+
+    .banner-art > a {
+        padding-top: 11px;
+        padding-left: 40px;
+    }
+
+    .banner-art a p i {
+        font-size: 22px;
+        top: 30%;
+        left: -24px;
+    }
+
+    .banner-art a p {
+        font-size: 13px;
+    }
+
+    .banner-art a p span {
+        font-size: 10px;
+    }
+
+
+    .mobbileimg img {
+        width: 98%;
+        margin-top: 25px;
+    }
+
+    #service .title h2 {
+        font-size: 20px;
+    }
+
+    #service .title p {
+        font-size: 12px;
+        line-height: 17px;
+    }
+
+    .navcontent h2,
+    .navcontent p {
+        display: none;
+    }
+
+    .navcontent::after {
+        display: none;
+    }
+
+    #v-pills-tab {
+        flex-direction: row !important;
+        justify-content: center;
+        margin-top: -55px
+    }
+
+    #feature .nav {
+
+        flex-wrap: nowrap;
+        list-style: none;
+        padding-right: 35px !important;
+        margin-left: 121px;
+    }
+
+    .navcontent i {
+        font-size: 22px;
+    }
+
+    .tab-content .mlf {
+        margin-left: -60px;
+    }
+
+    .aft_txt {
+        margin-left: -112px !important;
+
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    .featuretitle h2 {
+        font-size: 22px;
+    }
+
+    .featuretitle {
+        margin-bottom: 78px;
+    }
+
+
+    .single-content {
+        margin-top: 45px;
+    }
+
+    .team:hover .overlay-art {
+        bottom: -55%;
+        opacity: 1;
+    }
+
+    .mt15 {
+        margin-top: 15px;
+    }
+
+
+
+}
+
+@media(min-width:576px) and (max-width:767px) {
+    .navbar-brand {
+        width: 50%;
+    }
+
+    .navbar-brand img {
+        width: 50%;
+    }
+
+    .navbar-toggler-icon {
+        background-color: #744FA0;
+        border-radius: 5px
+    }
+
+
+
+    .banner-art h1 {
+        font-size: 19px;
+    }
+
+    .banner-art h2 {
+        font-size: 15px
+    }
+
+    .banner-art h2::before {
+        display: none;
+    }
+
+    .banner-art > p {
+        font-size: 11px;
+        line-height: 18px
+    }
+
+    .home {
+        display: none;
+    }
+
+    #banner .slick-dots {
+        display: none !important;
+    }
+
+    .banner-art > a {
+        padding-top: 11px;
+        padding-left: 40px;
+    }
+
+    .banner-art a p i {
+        font-size: 22px;
+        top: 30%;
+        left: -24px;
+    }
+
+    .banner-art a p {
+        font-size: 13px;
+    }
+
+    .banner-art a p span {
+        font-size: 10px;
+    }
+
+
+    .mobbileimg img {
+        width: 98%;
+        margin-top: 25px;
+    }
+
+    #service .title h2 {
+        font-size: 20px;
+    }
+
+    #service .title p {
+        font-size: 12px;
+        line-height: 17px;
+    }
+
+    .navcontent h2,
+    .navcontent p {
+        display: none;
+    }
+
+    .navcontent::after {
+        display: none;
+    }
+
+    #v-pills-tab {
+        flex-direction: row !important;
+        justify-content: center;
+        margin-top: -55px
+    }
+
+    #feature .nav {
+
+        flex-wrap: nowrap;
+        list-style: none;
+        padding-right: 35px !important;
+        margin-left: 244px;
+    }
+
+    .navcontent i {
+        font-size: 22px;
+    }
+
+    .tab-content .mlf {
+        margin-left: -60px;
+    }
+
+    .aft_txt {
+        margin-left: -112px !important;
+
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    .featuretitle h2 {
+        font-size: 22px;
+    }
+
+    .featuretitle {
+        margin-bottom: 78px;
+    }
+
+
+    .single-content {
+        margin-top: 45px;
+    }
+
+    .team:hover .overlay-art {
+        bottom: -73%;
+        opacity: 1;
+    }
+
+    .mt15 {
+        margin-top: 15px;
+    }
+}
+
+@media(min-width:768px) and (max-width:991px) {
+    .banner-art > a {
+        padding-top: 11px;
+        padding-left: 40px;
+    }
+
+    .banner-art a p i {
+        font-size: 22px;
+        top: 30%;
+        left: -24px;
+    }
+
+    .banner-art a p {
+        font-size: 13px;
+    }
+
+    .banner-art a p span {
+        font-size: 16px;
+    }
+
+
+    .single-content > h2 {
+        font-size: 12px;
+        padding: 22px 17px;
+        white-space: nowrap;
+
+
+
+    }
+
+    .single-content .btn {
+        white-space: nowrap;
+    }
+
+    .team:hover .overlay-art {
+        bottom: -82%;
+
+
+    }
+
+    .team-img .img-overlay i {
+
+        margin-right: 10px;
+        margin-top: 80px;
+    }
+
+    .navcontent p {
+        white-space: nowrap;
+    }
+
+    .navcontent {
+        margin-left: 4px;
+
+    }
+
+    .navcontent i {
+        margin-left: -19px;
+    }
+
+    .navcontent::after {
+
+        width: 92%;
+
+        left: -37px;
+    }
+
+
+}
+
+@media(min-width:992px) and (max-width:1199px) {
+    .single-content > h2 {
+        font-size: 15px;
+    }
+
+    .team:hover .overlay-art {
+        bottom: -57%;
+
+
+    }
+
+    .navcontent {
+        margin-left: 49px;
+
+    }
+
+    .navcontent i {
+        margin-left: -8px;
+    }
+
+    .navcontent::after {
+
+        width: 92%;
+
+        left: -37px;
+    }
+
+}
+
+@media(min-width:1200px) {
+    .navcontent {
+        margin-left: 49px;
+
+    }
+
+    .navcontent i {
+        margin-left: -8px;
+    }
+
+    .navcontent::after {
+
+        width: 92%;
+
+        left: -37px;
+    }
+}
